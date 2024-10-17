@@ -3,7 +3,7 @@ Version:	60732
 Release:	2
 Summary:	Typeset extended abstracts for conferences, such as often encountered in quantum information theory
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/phfextendedabstract
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/phfextendedabstract
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/phfextendedabstract.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/phfextendedabstract.doc.r%{version}.tar.xz
